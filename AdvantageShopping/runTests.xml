@@ -16,7 +16,7 @@
 <pathelement path="C:/Temp/resources/hamcrest-core.jar"/>
 </classpath>
 
-<test name="alm.demo.Demo" todir="${output.dir}" />
+<test name="purchaseTablets" todir="${output.dir}" />
 </junit>
 </target>
 
