@@ -10,7 +10,7 @@
 <formatter type="plain" usefile="false" />
 
 <classpath>
-<pathelement path="C:/Temp/Silk4J_Export/advantageShopping.jar"/>
+<pathelement path="output/tests.jar"/>
 <pathelement path="${env.OPEN_AGENT_HOME}/JTF/silktest-jtf-nodeps.jar"/>
 <pathelement path="C:/Temp/resources/junit.jar"/>
 <pathelement path="C:/Temp/resources/hamcrest-core.jar"/>
